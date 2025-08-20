@@ -43,4 +43,4 @@ Edit
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/dipanshubatra/portfolio.git
