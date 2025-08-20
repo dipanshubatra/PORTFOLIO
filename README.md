@@ -29,12 +29,6 @@ Edit
 
 ---
 
-## 📸 Preview
-
-![Portfolio Screenshot](images/background.jpg)  
-*(Replace with actual screenshot of your site once hosted)*  
-
----
 
 ## 🔧 Tech Stack
 
