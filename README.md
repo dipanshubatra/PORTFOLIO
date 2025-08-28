@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-A modern, responsive **portfolio websit** built with **HTML & CSS**, designed to showcase my skills, certificates, and projects in **Cybersecurity** and **Web Development**.
+A modern, responsive **portfolio website** built with **HTML & CSS**, designed to showcase my skills, certificates, and projects in **Cybersecurity** and **Web Development**.
 
 ---
 
